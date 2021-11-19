@@ -1,0 +1,287 @@
+boltzmann_averaged_data:
+  E_oxidation: 0.2841568000000052
+  E_reduction: 0.021945299999970302
+  E_solv_cds: -4.84
+  E_solv_elstat: -5.712136496562476
+  E_solv_total: -10.552136496562476
+  Pint_P_int: 18.56
+  Pint_P_max: 30.84
+  Pint_P_min: 13.06
+  Pint_dP: 3.52
+  dipolemoment: 1.3575388704226927
+  efg_amp_P: 1.7840710743011332
+  efgtens_xx_P: -0.767587
+  efgtens_yy_P: -0.688383
+  efgtens_zz_P: 1.45597
+  fmo_e_homo: -0.23042
+  fmo_e_lumo: -0.02758
+  fmo_eta: 0.20284000000000002
+  fmo_mu: -0.129
+  fmo_omega: 0.041020015775981064
+  fukui_m: 0.3649500000000001
+  fukui_p: 0.04818
+  nbo_P: 0.78247
+  nbo_P_ra: 0.73429
+  nbo_P_rc: 1.14742
+  nbo_bd_e_avg: -0.47309666666666667
+  nbo_bd_e_max: -0.4691
+  nbo_bd_occ_avg: 1.9610666666666667
+  nbo_bd_occ_min: 1.95294
+  nbo_bds_e_avg: 0.21439333333333332
+  nbo_bds_e_min: 0.19825
+  nbo_bds_occ_avg: 0.030350000000000002
+  nbo_bds_occ_max: 0.03555
+  nbo_lp_P_e: -0.31467
+  nbo_lp_P_occ: 1.91782
+  nbo_lp_P_percent_s: 51.17
+  nmr_P: 314.2333
+  nmrtens_sxx_P: 262.6295
+  nmrtens_syy_P: 324.5267
+  nmrtens_szz_P: 355.5438
+  nuesp_P: -54.179644
+  pyr_P: 0.9427477044431186
+  pyr_alpha: 16.489164072929647
+  qpole_amp: 6.60386820238245
+  qpoletens_xx: 4.478626581414592
+  qpoletens_yy: 0.3610646770896908
+  qpoletens_zz: -4.839691258504283
+  somo_ra: 0.07097
+  somo_rc: -0.40607
+  sphericity: 0.808033
+  spindens_P_ra: 0.037
+  spindens_P_rc: 0.47021
+  sterimol_B1: 3.283450452427343
+  sterimol_B5: 6.3813789814577095
+  sterimol_L: 7.6808891300814
+  sterimol_burB1: 3.283450452427343
+  sterimol_burB5: 6.060609824258252
+  sterimol_burL: 7.24483595102663
+  surface_area: 250.78676
+  vbur_far_vbur: 0.0
+  vbur_far_vtot: 0.0
+  vbur_max_delta_qvbur: 3.701456572207743
+  vbur_max_delta_qvtot: 63.93082469241993
+  vbur_near_vbur: 46.227939823399296
+  vbur_near_vtot: 232.64210006609443
+  vbur_ovbur_max: 14.129125977381864
+  vbur_ovbur_min: 0.0
+  vbur_ovtot_max: 90.08438819197971
+  vbur_ovtot_min: 0.0
+  vbur_qvbur_max: 14.129125977381864
+  vbur_qvbur_min: 9.792805279904242
+  vbur_qvtot_max: 90.08438819197971
+  vbur_qvtot_min: 26.153563499559777
+  vbur_ratio_vbur_vtot: 0.19714954006464117
+  vbur_vbur: 46.22793982339929
+  vbur_vtot: 234.4816011655017
+  vmin_r: 1.8401585920493309
+  vmin_vmin: -0.0510186
+  volume: 271.25264
+boltzmann_weights:
+  00000081_noNi_00001: 1.0
+conformers:
+- 00000081_noNi_00001
+conformers_all:
+- 00000081_noNi_00000
+- 00000081_noNi_00001
+conformers_w_error: []
+delta_data:
+  dipolemoment: 0.0
+  pyr_P: 0.0
+  pyr_alpha: 0.0
+  qpole_amp: 0.0
+  qpoletens_xx: 0.0
+  qpoletens_yy: 0.0
+  qpoletens_zz: 0.0
+  sterimol_B1: 0.0
+  sterimol_B5: 0.0
+  sterimol_L: 0.0
+  sterimol_burB1: 0.0
+  sterimol_burB5: 0.0
+  sterimol_burL: 0.0
+  vbur_far_vbur: 0.0
+  vbur_far_vtot: 0.0
+  vbur_max_delta_qvbur: 0.0
+  vbur_max_delta_qvtot: 0.0
+  vbur_near_vbur: 0.0
+  vbur_near_vtot: 0.0
+  vbur_ovbur_max: 0.0
+  vbur_ovbur_min: 0.0
+  vbur_ovtot_max: 0.0
+  vbur_ovtot_min: 0.0
+  vbur_qvbur_max: 0.0
+  vbur_qvbur_min: 0.0
+  vbur_qvtot_max: 0.0
+  vbur_qvtot_min: 0.0
+  vbur_vbur: 0.0
+  vbur_vtot: 0.0
+duplicates:
+- &id001 !!python/tuple
+  - 00000081_noNi_00000
+  - 00000081_noNi_00001
+e_dz_min: -843.7993363
+e_dz_minconf: 00000081_noNi_00000
+e_tz_gas_min: -844.0433214
+e_tz_gas_minconf: 00000081_noNi_00001
+e_tz_solv_min: -844.0601373
+e_tz_solv_minconf: 00000081_noNi_00001
+energies:
+  e_dz:
+    00000081_noNi_00000: -843.7993363
+    00000081_noNi_00001: -843.7993363
+  e_tz_gas:
+    00000081_noNi_00000: -844.0433212
+    00000081_noNi_00001: -844.0433214
+  e_tz_solv:
+    00000081_noNi_00000: -844.060137
+    00000081_noNi_00001: -844.0601373
+  g:
+    00000081_noNi_00000: -843.626182
+    00000081_noNi_00001: -843.626184
+  g_tz_gas:
+    00000081_noNi_00000: -843.8701669
+    00000081_noNi_00001: -843.8701690999999
+  g_tz_solv:
+    00000081_noNi_00000: -843.8869827
+    00000081_noNi_00001: -843.8869849999999
+g_min: -843.626184
+g_minconf: 00000081_noNi_00001
+g_tz_gas_min: -843.8701690999999
+g_tz_gas_minconf: 00000081_noNi_00001
+g_tz_solv_min: -843.8869849999999
+g_tz_solv_minconf: 00000081_noNi_00001
+max_data:
+  dipolemoment: 1.3575388704226927
+  pyr_P: 0.9427477044431186
+  pyr_alpha: 16.489164072929647
+  qpole_amp: 6.60386820238245
+  qpoletens_xx: 4.478626581414592
+  qpoletens_yy: 0.3610646770896908
+  qpoletens_zz: -4.839691258504283
+  sterimol_B1: 3.283450452427343
+  sterimol_B5: 6.3813789814577095
+  sterimol_L: 7.6808891300814
+  sterimol_burB1: 3.283450452427343
+  sterimol_burB5: 6.060609824258252
+  sterimol_burL: 7.24483595102663
+  vbur_far_vbur: 0.0
+  vbur_far_vtot: 0.0
+  vbur_max_delta_qvbur: 3.701456572207743
+  vbur_max_delta_qvtot: 63.93082469241993
+  vbur_near_vbur: 46.227939823399296
+  vbur_near_vtot: 232.64210006609443
+  vbur_ovbur_max: 14.129125977381864
+  vbur_ovbur_min: 0.0
+  vbur_ovtot_max: 90.08438819197971
+  vbur_ovtot_min: 0.0
+  vbur_qvbur_max: 14.129125977381864
+  vbur_qvbur_min: 9.792805279904242
+  vbur_qvtot_max: 90.08438819197971
+  vbur_qvtot_min: 26.153563499559777
+  vbur_vbur: 46.22793982339929
+  vbur_vtot: 234.4816011655017
+min_data:
+  dipolemoment: 1.3575388704226927
+  pyr_P: 0.9427477044431186
+  pyr_alpha: 16.489164072929647
+  qpole_amp: 6.60386820238245
+  qpoletens_xx: 4.478626581414592
+  qpoletens_yy: 0.3610646770896908
+  qpoletens_zz: -4.839691258504283
+  sterimol_B1: 3.283450452427343
+  sterimol_B5: 6.3813789814577095
+  sterimol_L: 7.6808891300814
+  sterimol_burB1: 3.283450452427343
+  sterimol_burB5: 6.060609824258252
+  sterimol_burL: 7.24483595102663
+  vbur_far_vbur: 0.0
+  vbur_far_vtot: 0.0
+  vbur_max_delta_qvbur: 3.701456572207743
+  vbur_max_delta_qvtot: 63.93082469241993
+  vbur_near_vbur: 46.227939823399296
+  vbur_near_vtot: 232.64210006609443
+  vbur_ovbur_max: 14.129125977381864
+  vbur_ovbur_min: 0.0
+  vbur_ovtot_max: 90.08438819197971
+  vbur_ovtot_min: 0.0
+  vbur_qvbur_max: 14.129125977381864
+  vbur_qvbur_min: 9.792805279904242
+  vbur_qvtot_max: 90.08438819197971
+  vbur_qvtot_min: 26.153563499559777
+  vbur_vbur: 46.22793982339929
+  vbur_vtot: 234.4816011655017
+number_of_conformers: 1
+relative_energies:
+  e_dz_rel:
+    00000081_noNi_00000: 0.0
+    00000081_noNi_00001: 0.0
+  e_tz_gas_rel:
+    00000081_noNi_00000: 0.0001255018508793978
+    00000081_noNi_00001: 0.0
+  e_tz_solv_rel:
+    00000081_noNi_00000: 0.0001882527763190967
+    00000081_noNi_00001: 0.0
+  g_rel:
+    00000081_noNi_00000: 0.0012550189368313817
+    00000081_noNi_00001: 0.0
+  g_tz_gas_rel:
+    00000081_noNi_00000: 0.0013805207877107795
+    00000081_noNi_00001: 0.0
+  g_tz_solv_rel:
+    00000081_noNi_00000: 0.0014432717131504784
+    00000081_noNi_00001: 0.0
+relative_energies_dict:
+  e_dz:
+    00000081_noNi_00000: 0.0
+    00000081_noNi_00001: 0.0
+  e_tz_gas:
+    00000081_noNi_00000: 0.0001255018508793978
+    00000081_noNi_00001: 0.0
+  e_tz_solv:
+    00000081_noNi_00000: 0.0001882527763190967
+    00000081_noNi_00001: 0.0
+  g:
+    00000081_noNi_00000: 0.0012550189368313817
+    00000081_noNi_00001: 0.0
+  g_tz_gas:
+    00000081_noNi_00000: 0.0013805207877107795
+    00000081_noNi_00001: 0.0
+  g_tz_solv:
+    00000081_noNi_00000: 0.0014432717131504784
+    00000081_noNi_00001: 0.0
+removed_duplicates:
+- 00000081_noNi_00000
+rmsd_candidates:
+  *id001: 0.00036947946568294504
+time_all: 13.759027777777778
+vburminconf: 00000081_noNi_00001
+vburminconf_data:
+  dipolemoment: 1.3575388704226927
+  pyr_P: 0.9427477044431186
+  pyr_alpha: 16.489164072929647
+  qpole_amp: 6.60386820238245
+  qpoletens_xx: 4.478626581414592
+  qpoletens_yy: 0.3610646770896908
+  qpoletens_zz: -4.839691258504283
+  sterimol_B1: 3.283450452427343
+  sterimol_B5: 6.3813789814577095
+  sterimol_L: 7.6808891300814
+  sterimol_burB1: 3.283450452427343
+  sterimol_burB5: 6.060609824258252
+  sterimol_burL: 7.24483595102663
+  vbur_far_vbur: 0.0
+  vbur_far_vtot: 0.0
+  vbur_max_delta_qvbur: 3.701456572207743
+  vbur_max_delta_qvtot: 63.93082469241993
+  vbur_near_vbur: 46.227939823399296
+  vbur_near_vtot: 232.64210006609443
+  vbur_ovbur_max: 14.129125977381864
+  vbur_ovbur_min: 0.0
+  vbur_ovtot_max: 90.08438819197971
+  vbur_ovtot_min: 0.0
+  vbur_qvbur_max: 14.129125977381864
+  vbur_qvbur_min: 9.792805279904242
+  vbur_qvtot_max: 90.08438819197971
+  vbur_qvtot_min: 26.153563499559777
+  vbur_vbur: 46.22793982339929
+  vbur_vtot: 234.4816011655017
